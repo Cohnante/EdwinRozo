@@ -5,8 +5,8 @@
 
 .img {
   display: flex;
-  justify-content: center;
-  margin-top: 50px;
+  justify-content: space-evenly;
+  margin-top: 20px;
 }
 
 .imagen3 {
@@ -20,10 +20,11 @@
 }
 
 .btn {
-  text-align: center;
-  
+  display: flex;
+  justify-content: space-evenly;  
 }
 
+/* 
 .btn1 {
  background-color: black;
  color: white;
@@ -34,4 +35,4 @@
   background-color: black;
   color: white;
   margin-left: 11%;
-}
+}  */
