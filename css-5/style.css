@@ -1,0 +1,37 @@
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.imagen3 {
+  width: 400px;
+  height: 450px;
+}
+
+.imagen4 {
+  width: 400px;
+  height: 450px;
+}
+
+.btn {
+  text-align: center;
+  
+}
+
+.btn1 {
+ background-color: black;
+ color: white;
+ margin-right: 11%;
+}
+
+.btn2 {
+  background-color: black;
+  color: white;
+  margin-left: 11%;
+}
